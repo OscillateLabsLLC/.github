@@ -38,5 +38,5 @@ The project is experimental or a demonstration.
 Use GitHub topic search to find repositories by status:
 
 - [Active repositories](https://github.com/search?q=org%3AOscillateLabsLLC+topic%3Astatus-active)
-- [Security fixes only](https://github.com/search?q=org%3AOscillateLabsLLC+topic%3Astatus-security-only)
+- [Security fixes only](https://github.com/search?q=org%3AOscillateLabsLLC+topic%3Astatus-security-fixes-only)
 - [Proof of concept](https://github.com/search?q=org%3AOscillateLabsLLC+topic%3Astatus-poc)
